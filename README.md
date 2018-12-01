@@ -1,2 +1,3 @@
 # EZ-Stay-Hotel
-Semester-long project for Software Engineering Class
+Our project will simulate hotel reservations and other activities available such as a restaurant reservations that feature a clerk less and self-service experience for a potential customer. Our system is a physical kiosk at a desired location. Reservations can be made across the country [United States] and can accommodate pets. Customers will be given the option of what rooms they want according to individual need and given the option of payment upfront or at location. Continental breakfast is optional. Parking is available. Cancellations will be charged unless done within two weeks of time of stay.
+
